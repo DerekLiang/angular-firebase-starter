@@ -35,11 +35,11 @@
     "firebase": "latest",
     "font-awesome": "^4.7.0",
     "ngrx-store-localstorage": "^0.1.5",
-    "rxjs": "latest",
+    "rxjs": "5.5.10",
     "zone.js": "^0.7.6"
   },
   "devDependencies": {
-    "@angular/cli": "latest",
+    "@angular/cli": "~1.7.4",
     "@angular/compiler-cli": "latest",
     "@types/jasmine": "2.5.38",
     "@types/node": "~6.0.60",
@@ -58,6 +58,6 @@
     "protractor": "~5.1.0",
     "ts-node": "~2.0.0",
     "tslint": "~4.4.2",
-    "typescript": ">=2.4.2 <2.7.0"
+    "typescript": ">=2.7.2 <2.8.0"
   }
 }
